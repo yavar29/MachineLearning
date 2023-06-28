@@ -11,13 +11,6 @@ from lab_utils_uni import plt_house_x, plt_contour_wgrad, plt_divergence, plt_gr
 
 
 
-# | Size (1000 sqft | Price (1000s of dollars) |
-# | ----------------| ------------------------ |
-# | 1               | 300                      |
-# | 2               | 500                      |
-
-
-
 # Load our data set
 X_train = np.array([[2104, 5, 1, 45], [1416, 3, 2, 40], [852, 2, 1, 35]]) #features
 y_train = np.array([460, 232, 178]) #target value
