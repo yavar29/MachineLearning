@@ -271,6 +271,4 @@ plt_divergence(p_hist, J_hist,x_train, y_train)
 plt.show()
 
 
-
-
 """
